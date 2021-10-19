@@ -1,1 +1,0 @@
-# syumikun.github.io
