@@ -1,0 +1,112 @@
+/* headerSAT */
+* {
+    box-sizing: border-box;
+ 
+ }
+ body {
+    margin: 0;
+    padding: 0;
+    font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #e6e6e6;
+    letter-spacing : 0.2em;
+ }
+ header {
+   text-shadow: 0px 0px 5px #000000;
+    padding: 30px 4% 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    z-index: 9999;
+ }
+ h1 {
+    margin: 0; padding: 0;
+    font-size: 20px;
+ }
+ a {	
+    text-decoration: none;
+    color: #fff;
+ }
+ nav {
+    margin: 0 0 0 auto;
+ }
+ ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+ }
+ li {
+    margin: 0 0 0 15px;
+    font-size: 14px;
+ }
+ .main-visual {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('https://cdn.discordapp.com/attachments/875005776748511273/875005861196595200/header.png') top center / cover no-repeat;
+ }
+ .main-visual h2 {
+    margin: 0;
+    font-size: 30px;
+    font-weight: normal;
+    color: #fff;
+    text-shadow: 0px 0px 5px #000000;
+ }
+ /* headerEND */
+
+ /* syoukaiSAT */
+.WR1{
+    text-shadow: 0px 0px 5px #000000;
+    width:100%;
+    background-image:url(https://cdn.discordapp.com/attachments/875005776748511273/875005860873666631/iPadura.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center center;
+  }
+  .WR1 .WR2{
+    color:#ffffff;
+    max-width:1000px;
+    margin:0px auto;
+    padding:80px 0px;
+  }
+  .WR1 .WR3 .WR4{
+    margin:0px 0px 40px 0px;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: 0px 0px 5px #000000;
+  }
+  @media (min-width: 992px) {
+    .WR1 .WR3 .list10 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+  }
+  .WR1 .WR3 .list-item10 {
+    margin:50px 0px;
+    padding:0px 50px;
+    text-align:center;
+  }
+  @media (min-width: 992px) {
+    .WR1 .WR3 .list-item10 {
+        margin:0px;
+        width:calc(100% / 3);
+    }
+  }
+  .WR1 .WR3 .list-item10 .image10{
+    display:block;
+    width:100%;
+    max-width:300px;
+    margin:0px auto 20px auto;
+    border-radius:100%;
+  }
+  .WR1 .WR3 .list-item10 .text10{
+    line-height:1.8rem;
+    font-size:1rem;
+    color:#ffffff;
+  }
+  /* syoukaiEND */
