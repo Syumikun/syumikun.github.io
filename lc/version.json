@@ -2,6 +2,11 @@
   "version": {
     "V": "1.0.5",
     "K": "NO",
-    "M": "YES"
+    "M": "NO"
+  },
+  "MS": {
+    "A": "Y",
+    "MD": "TEST",
+    "M": "<TESUTODEGOZAIMASU>"
   }
 }
