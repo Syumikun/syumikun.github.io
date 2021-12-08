@@ -1,9 +1,13 @@
 {
     "Number to erase":{
-        "number": "10"
+        "number": "2",
+        "file": "1"
     },
     "Erase list":{
         "1": "うんこ.txt",
         "2": "ばか.txt"
+    },
+    "File list to erase":{
+        "1": "aaaaaaaaaa"
     }
 }
