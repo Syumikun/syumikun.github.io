@@ -5,8 +5,8 @@
     },
     "message":{
         "message":"N",
+        "forced":"N",
         "title":"なんで表示されてんの？",
-        "detail":"なんでこれが表示されてんの？",
-        "forced":"N"
+        "detail":"なんでこれが表示されてんの？"
     }
 }
