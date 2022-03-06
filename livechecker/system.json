@@ -5,7 +5,7 @@
     },
     "message":{
         "message":"Y",
-        "forced":"Y",
+        "forced":"N",
         "title":"テスト",
         "detail":"テストなんだぜ"
     }
