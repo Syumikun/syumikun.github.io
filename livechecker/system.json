@@ -1,7 +1,7 @@
 {
     "update":{
-        "version":"1.1.7",
-        "forced":"Y"
+        "version":"1.0.7",
+        "forced":"N"
     },
     "message":{
         "message":"N",
