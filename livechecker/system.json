@@ -5,8 +5,8 @@
     },
     "message":{
         "message":"Y",
-        "forced":"N",
-        "title":"tere",
-        "detail":"do-na"
+        "forced":"Y",
+        "title":"Test",
+        "detail":"Testだぜ★"
     }
 }
