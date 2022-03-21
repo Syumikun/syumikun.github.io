@@ -4,9 +4,9 @@
         "forced":"N"
     },
     "message":{
-        "message":"Y",
-        "forced":"Y",
-        "title":"Test",
-        "detail":"Testだぜ★"
+        "message":"N",
+        "forced":"N",
+        "title":"",
+        "detail":""
     }
 }
