@@ -1,0 +1,43 @@
+{
+    "Number to erase":{
+        "number": "28",
+        "file": "5"
+    },
+    "Erase list":{
+        "1": "_asyncio.pyd",
+        "2": "_bz2.pyd",
+        "3": "_ctypes.pyd",
+        "4": "_decimal.pyd",
+        "5": "_hashlib.pyd",
+        "6": "_lzma.pyd",
+        "7": "_multiprocessing.pyd",
+        "8": "_overlapped.pyd",
+        "9": "_queue.pyd",
+        "10": "_socket.pyd",
+        "11": "_ssl.pyd",
+        "12": "_tkinter.pyd",
+        "13": "base_library.zip",
+        "14": "lc_API.txt",
+        "15": "lc_CH.txt",
+        "16": "libcrypto-1_1.dll",
+        "17": "libffi-7.dll",
+        "18": "libssl-1_1.dll",
+        "19": "LiveChecker.exe",
+        "20": "LiveChecker.exe.manifest",
+        "21": "pyexpat.pyd",
+        "22": "python39.dll",
+        "23": "select.pyd",
+        "24": "tcl86t.dll",
+        "25": "terms-of-service.json",
+        "26": "tk86t.dll",
+        "27": "unicodedata.pyd",
+        "28": "VCRUNTIME140.dll"
+    },
+    "File list to erase":{
+        "1": "tk",
+        "2": "tcl8",
+        "3": "tcl",
+        "4": "file",
+        "5": "certifi"
+    }
+}
