@@ -1,6 +1,6 @@
 {
     "Number to erase":{
-        "number": "29",
+        "number": "27",
         "file": "5"
     },
     "Erase list":{
@@ -28,11 +28,9 @@
         "22": "python39.dll",
         "23": "select.pyd",
         "24": "tcl86t.dll",
-        "25": "terms-of-service.json",
-        "26": "tk86t.dll",
-        "27": "unicodedata.pyd",
-        "28": "VCRUNTIME140.dll",
-        "29": "version.json"
+        "25": "tk86t.dll",
+        "26": "unicodedata.pyd",
+        "27": "VCRUNTIME140.dll"
     },
     "File list to erase":{
         "1": "tk",
