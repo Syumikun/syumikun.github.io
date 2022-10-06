@@ -1,8 +1,8 @@
 {
     "version":"1.0.0",
     "news":{
-        "title":"【1.0.1】新Version",
-        "explanation":"",
-        "version_url":""
+        "title":"テスト新バージョン",
+        "explanation":"Welcome to new version.",
+        "version_url":"https://syumikun.github.io/pvm/version.json"
     }
 }
