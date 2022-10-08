@@ -1,6 +1,6 @@
 {
     "version":"1.0.0",
-    "coercion":"False",
+    "coercion":"True",
     "news":{
         "title":"テスト新バージョン",
         "explanation":"Welcome to new version.",
