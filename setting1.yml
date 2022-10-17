@@ -1,0 +1,46 @@
+# << -- オーナー設定 -- >> #
+# オーナー("Discord#0000"等のユーザー名では無く18桁のIDです)
+OWNER: 896697055123210272
+# 新しいバージョンが出た際にDMでお知らせするかの設定です。
+# (初期値"true",オン"true"/オフ"false")
+VERSIONUP: false
+# BOTが起動した時にDMでお知らせする機能です。
+# (初期値"true",オン"true"/オフ"false")
+BOTSTART: false
+# ユーザーにロールを付与・解除した際にDMでお知らせするかの設定です。
+# (初期値"false",オン"true"/オフ"false")
+USEROLL: false
+
+# << -- 重要な設定 -- >> #
+# Discordトークン
+TOKEN: OTI0OTczMjUyNzIyNDQ2MzU2.GfOWV6.waYGtjvnPohFfNGL1NWS5ErCfCYLhiry4hdVaE
+# ボットのモード (ONL=オンライン,DW=退席,TL=取り込み中,OF=オフライン)
+MODE: ONL
+# ボットのゲームプレイ(「"文字" をプレイ中」と表示される"文字"の部分を決められます。)
+PLAY: DEFAULT
+# ボットの名前(コマンド返信の下部に表示されます。)
+NAME: DEFAULT
+# ボットのアイコンURL(コマンド返信の下部に表示されます。)
+ICON: DEFAULT
+
+# << -- ロール付与設定 -- >> #
+# 付与するロールの設定(詳しくはWikiを参照ください)
+data:
+ use: 3
+ 1:
+  message_id: 1026778425488326657
+  message_stamp: 💩
+  roll_id: 1025725239587512340
+ 2:
+  message_id: 1026778425488326657
+  message_stamp: unchi
+  roll_id: 1026789308625059930
+ 3:
+  message_id: 1027474446606409759
+  message_stamp: 🏫
+  roll_id: 1026789308625059930
+
+# << -- 利用規約 -- >> #
+# 利用規約に同意する場合は利用規約最下部にあるパスワードを打ってください。
+# 利用規約URL→
+consent: RoadRoller
